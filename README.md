@@ -38,26 +38,6 @@ Time series plots of actual and predicted production
 Forecast intervals
 Distribution of prediction errors
 
-# Agriculture Production Prediction using ARIMA
-
-This repository explores the use of ARIMA models to forecast agricultural production, aiming to improve accuracy and support informed decision-making in the agricultural sector.
-
-## Key Features:
-
-ARIMA implementation: Employs ARIMA models, specifically designed for time series forecasting, to capture patterns in agricultural production data.
-Data integration: Incorporates various agricultural datasets, potentially including:
-Historical crop yield data
-Meteorological data (temperature, precipitation, etc.)
-Soil information
-Economic indicators
-Model evaluation: Assesses model performance using relevant metrics, such as:
-Mean squared error (MSE)
-Root mean squared error (RMSE)
-Mean absolute error (MAE)
-Visualization: Presents results through informative visualizations, such as:
-Time series plots of actual and predicted production
-Forecast intervals
-Distribution of prediction errors
 ## Project Structure:
 
 data: Contains the datasets used for model training and evaluation.
